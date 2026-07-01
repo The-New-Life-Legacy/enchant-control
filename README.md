@@ -1,2 +1,36 @@
-# enchant-control
-Enchant Control allows server owners to disable unwanted enchantments. Both vanilla and datapack enchantments work.
+![Enchant Control Icon](https://cdn.modrinth.com/data/cached_images/b0d6e502cb779a70bf4fd0bcd9a3a41ac535f9ab_0.webp)
+# Enchant Control
+**Enchant Control** is a plugin for managing enchantments on your server. It blocks unwanted enchantments, sanitizes inventories, and supports both vanilla and custom/datapack enchantments.
+
+**Commands:**
+
+- /enchantcontrol block <enchantment> - Block an enchantment
+- /enchantcontrol unblock <enchantment> - Unblock an enchantment
+- /enchantcontrol list - List currently blocked enchantments
+- /enchantcontrol reload - Reload plugin configuration
+- /enchantcontrol enable - Enable enchantment blocking
+- /enchantcontrol disable - Disable enchantment blocking
+
+**How does it work?**
+
+Enchant Control intercepts enchantment-related events and sanitizes item interactions. It can block enchantments from:
+- enchantment tables
+- villager trades
+- loot generation
+- inventory clicks/drags
+- creative inventory and join-time checks
+  
+It also supports custom enchantments so both vanilla and datapack enchantments can be blocked reliably.
+
+**Permissions:**
+
+- enchantcontrol.use
+- enchantcontrol.block
+- enchantcontrol.unblock
+- enchantcontrol.list
+- enchantcontrol.reload
+- enchantcontrol.enable
+- enchantcontrol.disable
+_____________________________________________________________________________________________________________________
+
+<small>**Portions of this plugin code were written by Claude.**
