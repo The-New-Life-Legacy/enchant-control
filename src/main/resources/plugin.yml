@@ -1,0 +1,37 @@
+main: com.testnalpaca.enchantcontrol.EnchantControl
+version: 2.0
+name: EnchantControl
+author: testnalpaca
+description: Enchant Control gives server owners full control over enchantments in Minecraft, including full support for custom and datapack enchantments!
+api-version: 1.21
+commands:
+  enchantcontrol:
+    description: Manage enchantment blocking settings
+    usage: /<command> <block|unblock|list|reload|enable|disable>
+    aliases: [ec]
+    permission: enchantcontrol.use
+    permission-message: You do not have permission to use Enchant Control.
+permissions:
+  enchantcontrol.use:
+    description: Allows using the Enchant Control command
+    default: op
+  enchantcontrol.block:
+    description: Allows blocking enchantments
+    default: op
+  enchantcontrol.unblock:
+    description: Allows unblocking enchantments
+    default: op
+  enchantcontrol.list:
+    description: Allows listing blocked enchantments
+    default: op
+  enchantcontrol.reload:
+    description: Allows reloading Enchant Control configuration
+    default: op
+  enchantcontrol.enable:
+    description: Allows enabling enchantment blocking
+    default: op
+  enchantcontrol.disable:
+    description: Allows disabling enchantment blocking
+    default: op
+
+

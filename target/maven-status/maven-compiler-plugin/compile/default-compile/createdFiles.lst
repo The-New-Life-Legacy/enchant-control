@@ -1,0 +1,6 @@
+com\testnalpaca\enchantcontrol\listeners\EnchantEventListener.class
+com\testnalpaca\enchantcontrol\commands\EnchantControlCommand.class
+com\testnalpaca\enchantcontrol\EnchantControl.class
+com\testnalpaca\enchantcontrol\utils\Utils.class
+com\testnalpaca\enchantcontrol\listeners\PlayerListener.class
+com\testnalpaca\enchantcontrol\managers\PluginManager.class

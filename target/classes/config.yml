@@ -1,0 +1,7 @@
+blocking-enabled: true
+delete-items: false
+switch-enchantments: true
+debug-enabled: false
+blocked-enchantments:
+  - minecraft:curse_of_binding
+  - minecraft:vanishing_curse
