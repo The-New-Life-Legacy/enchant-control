@@ -1,4 +1,4 @@
-![Enchant Control Icon](https://cdn.modrinth.com/data/cached_images/b0d6e502cb779a70bf4fd0bcd9a3a41ac535f9ab_0.webp)
+![Enchant Control Icon](https://cdn.modrinth.com/data/cached_images/0356708b0ce28eddbb4714476585541f3ee8cf54.png)
 # Enchant Control
 **Enchant Control** is a plugin for managing enchantments on your server. It blocks unwanted enchantments, sanitizes inventories, and supports both vanilla and custom/datapack enchantments.
 
@@ -32,5 +32,4 @@ It also supports custom enchantments so both vanilla and datapack enchantments c
 - enchantcontrol.enable
 - enchantcontrol.disable
 _____________________________________________________________________________________________________________________
-
-<small>**Portions of this plugin code were written by Claude.**
+![Skulk Hosting](https://cdn.modrinth.com/data/cached_images/3b95f70b0d9a6e9ec1c18873230cfa1506a3f6da_0.webp)https://my.sculkhosting.com/ref/thenewlife
